@@ -1,0 +1,11 @@
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.exe.config
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.exe
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.pdb
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.xml
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.vbprojResolveAssemblyReference.cache
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper_App.Form1.resources
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper_App.Resources.resources
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.vbproj.GenerateResource.Cache
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.exe
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.xml
+c:\users\staff\documents\visual studio 2015\Projects\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.pdb
