@@ -1,0 +1,11 @@
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\bin\Debug\ITI Hub regional sales_.exe.config
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\bin\Debug\ITI Hub regional sales_.exe
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\bin\Debug\ITI Hub regional sales_.pdb
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\bin\Debug\ITI Hub regional sales_.xml
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI Hub regional sales_.vbprojResolveAssemblyReference.cache
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI_Hub_regional_sales_.Form1.resources
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI_Hub_regional_sales_.Resources.resources
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI Hub regional sales_.vbproj.GenerateResource.Cache
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI Hub regional sales_.exe
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI Hub regional sales_.xml
+c:\users\staff\documents\visual studio 2015\Projects\ITI Hub regional sales_\ITI Hub regional sales_\obj\Debug\ITI Hub regional sales_.pdb
