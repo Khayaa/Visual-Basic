@@ -1,0 +1,11 @@
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\bin\Debug\RGIT Asset Annual depreciation App.exe.config
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\bin\Debug\RGIT Asset Annual depreciation App.exe
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\bin\Debug\RGIT Asset Annual depreciation App.pdb
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\bin\Debug\RGIT Asset Annual depreciation App.xml
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT Asset Annual depreciation App.vbprojResolveAssemblyReference.cache
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT_Asset_Annual_depreciation_App.Form1.resources
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT_Asset_Annual_depreciation_App.Resources.resources
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT Asset Annual depreciation App.vbproj.GenerateResource.Cache
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT Asset Annual depreciation App.exe
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT Asset Annual depreciation App.xml
+c:\users\staff\documents\visual studio 2015\Projects\RGIT Asset Annual depreciation App\RGIT Asset Annual depreciation App\obj\Debug\RGIT Asset Annual depreciation App.pdb
